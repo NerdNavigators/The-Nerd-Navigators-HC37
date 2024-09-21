@@ -13,7 +13,7 @@ class AiCareerAssistantView extends StatefulWidget {
 class _AiCareerAssistantViewState extends State<AiCareerAssistantView> {
   final TextEditingController _userInput = TextEditingController();
   final ScrollController _scrollController = ScrollController();
-  static const apiKey = "AIzaSyANa5YC1XwsDVBrFl4VxiPzIT3fwsx7exg"; // Replace with your actual API key
+  static const apiKey = "Your-Gemini_Api_Key"; // Replace with your actual API key
   final model = GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
   final List<Message> _messages = [];
   bool _isLoading = false; // To track loading state
