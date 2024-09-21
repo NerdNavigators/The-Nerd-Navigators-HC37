@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277027572203",
+    "project_id": "um-4f8b6",
+    "storage_bucket": "um-4f8b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277027572203:android:6708655beb2ff5d5d271ae",
+        "android_client_info": {
+          "package_name": "com.example.unigram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2a3MxPq1foNdEjK4a8uV1pjSemsnd3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
